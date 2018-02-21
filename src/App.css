@@ -5,6 +5,9 @@ body {
 
 .App {
   position: relative;
+  /* max-width: 1300px; */
+  width: 100%;
+  max-width: 1305px;
   min-width: 1280px;
   height: 100%;
   overflow: hidden;
